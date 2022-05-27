@@ -104,7 +104,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus=y
           CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
           CONFIG_PACKAGE_luci-app-transmission=y
-          CONFIG_PACKAGE_luci-app-passwall=y
+          # CONFIG_PACKAGE_luci-app-passwall=y
           # CONFIG_PACKAGE_luci-app-kodexplorer=y
           EOF
           
