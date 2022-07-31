@@ -79,7 +79,7 @@ jobs:
           # 设置固件大小:
           # cat >> .config <<EOF
           # CONFIG_TARGET_KERNEL_PARTSIZE=30
-          # CONFIG_TARGET_ROOTFS_PARTSIZE=600
+          # CONFIG_TARGET_ROOTFS_PARTSIZE=500
           # EOF
           # 设置x64固件:
           cat >> .config <<EOF
